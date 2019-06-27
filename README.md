@@ -21,7 +21,7 @@ Finally, the extracted contents are displayed to user .
 
 
 # How to setup the project?
-Directly download the zip folderand import it to Pycharm IDE
+Directly download the zip folder and import it to Pycharm IDE
 
 1) Install MYSQL in your computer.
 2) Change if required in connect method of Database.py
